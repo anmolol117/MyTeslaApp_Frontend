@@ -1,0 +1,2 @@
+# Tesla Car App (iOS Frontend Project)
+Designed a visually appealing and responsive Tesla car app clone using Swift and SwiftUI. The app replicates the core UI/UX of Tesla's official mobile app, including animated car controls, battery status display, media control interface, and smooth transitions. Focused on building modular, reusable components and maintaining pixel-perfect design fidelity to deliver a seamless user experience.
